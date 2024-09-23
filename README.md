@@ -14,6 +14,7 @@ Welcome to **Escape the Cave game**, a text-based adventure game written in C. E
 gcc intro.c -o caveadventure
 ```
 3. Run the game:
+4. ```bash
    ./caveadventure
    ```
 ## LICENSE
