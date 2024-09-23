@@ -16,5 +16,5 @@ gcc intro.c -o caveadventure
 3. Run the game:
    ./caveadventure
    ```
-   ## LICENSE
+## LICENSE
    This project is licensed under the MIT license.
