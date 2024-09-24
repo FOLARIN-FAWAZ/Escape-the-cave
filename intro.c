@@ -16,7 +16,7 @@ int hasboots = 0;
 // logic for the exit
 void theexit() {
     typeText("\nAfter several hours of crawling, you see light at the end of the hole you've been crawling through\n\n");
-    typeText("\"You breath the fresh air as you step out into the light. You've made it!\"\n CONGRATULATIONS!!!");
+    typeText("\"You breath the fresh air as you step out into the light. You've made it!\"\n CONGRATULATIONS!!!!");
 }
 // logic for the door
 void door() {
